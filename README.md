@@ -1,1 +1,1 @@
-# voby-mathjax
+# solid-comixpanel
